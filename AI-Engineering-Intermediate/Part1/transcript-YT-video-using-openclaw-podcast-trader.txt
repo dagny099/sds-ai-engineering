@@ -1,0 +1,39 @@
+00:00:00
+In this video, I'm going to show you how I'm using Open Claw to automate my crypto trading. And I'm going to be real with you. This is absolutely insane. It's building strategies, back testing them, and trading 24/7 without me watching. So, stick around because I'm showing you exactly how to set this up and connect it to your exchange. Let's get started. All right. So, what exactly is OpenClaw? Here's the thing. OpenClaw is not just another chatbot. It's what we call an AI agent. That means it can
+
+00:00:30
+actually do things, not just talk. Regular AI like chat GBT or Claude, they can give you advice, write code, answer questions. But they can't actually execute anything. They just give you information, and that's where it stops. OpenClaw is completely different. It can write code, execute that code, install software packages it needs, and most importantly for us, it can connect directly to Exchange APIs, analyze markets, back test strategies, and trade automatically 247. And I need you to
+
+00:01:00
+understand this is literally changing everything. The people who adapt to AI trading early are going to have a massive advantage. The people who ignore it, they're going to fall behind. All right, so first things first, you need to download OpenClaw. Head over to openclaw.ai and you'll see the download page right here. Now, do keep in mind OpenClaw is a developer focused tool, so the installation process can be a bit technical. You'll need to follow the instructions on their website based on
+
+00:01:29
+your operating system. They have versions for Mac, Linux, and Windows. Just click on your operating system and follow the installation guide. Once you have it installed and running, you'll see an interface that looks like a chat window, similar to chat GPT, but with way more power under the hood. Now, here's my advice. Before you even click the buy button or start installing, write down everything you're interested in. Your trading experience, your goals, strategies you like, edge you have, all
+
+00:01:57
+of it. Because the more context you give OpenClaw upfront, the better it can work for you. For OpenClaw to actually trade for you, it needs to connect to your exchange account through an API. And the exchange I'm using for this is Blofin. If you don't have a Blofin account yet, click the link in the description below. You'll get up to 5 USDT just for signing up, plus up to 30 USDT in bonuses when you deposit. Step one, create your Bluffin account and deposit. Go to Blofen, sign up with your email, and
+
+00:02:28
+make your first deposit. I recommend using TRC20 for USDT because it's fast and the fees are very low. Step two, generate your API keys. Now go to your account settings and click on API. Click on create new API key and give it a name, something like openclaw trading. You'll see your application name, your API key, and possibly a passphrase depending on the settings. Do keep in mind these keys are extremely sensitive. Never share them with anyone. Here's a smart way to set this up. Enable trading
+
+00:03:01
+permissions, but leave withdrawal permissions disabled. That way, even if something goes wrong, your funds can't be withdrawn. Click next and save your API key and secret key somewhere safe, like a password manager. Step three, connect OpenClaw to blowin. Now, open up OpenClaw and you're going to give it a prompt to connect to your blowofin account. Here's the exact prompt you'll use. I want you to connect to my blowofin exchange account using these API keys. Once done, check my account
+
+00:03:30
+balance so I can see that you truly have access to my account. And just like that, OpenClaw is now connected to your exchange and ready to trade. Step four, start trading. Now you can give it commands like open a long position on Bitcoin with $10 using five times leverage. Set a take-profit at 3% and a stop-loss at 1%. OpenClaw will execute this trade immediately on your Bluffin account. You can also ask it to analyze the market. analyze the current Bitcoin price action on the 4hour chart. Tell me
+
+00:04:00
+if we're in a trending or ranging market and suggest whether I should go long, short, or stay out. Or you could create automated strategies. Create a simple trend following strategy for Bitcoin on the 1 hour chart. Back test it using the last 30 days of data, then schedule it to run automatically every hour. This is where it gets insane. OpenClaw will write the code, back test the strategy, show you the results, and then schedule it to run 247 without you watching. One of the best things I'm doing right now
+
+00:04:30
+is I'm running multiple strategies in parallel, like a competition between different AI agents. You can do this by telling OpenClaw, create five different Bitcoin trading strategies with different parameters, time frames, and logic. Run all five strategies in parallel with $100 each. After one week, analyze which strategies are profitable and which ones are losing money. Cut off the unprofitable ones and keep the winners running. This is basically evolution for trading strategies. The best ones survive, the weak ones get
+
+00:05:03
+eliminated, and over time I end up with a portfolio of highly profitable strategies. Now, if you've already have strategies on Trading View that you like, you can connect Open Claw to Tradeview using web hooks. Here's how it works. When your trade in view strategy triggers an alert like an entry or exit signal, the web hook automatically notifies OpenClaw and it executes the trade on your Blofin account. To set this up, just give OpenClaw a prompt like this. Create a web hook for my trading view alerts.
+
+00:05:33
+When I receive an entry signal, execute a long trade on my Blofen account. When I receive an exit signal, close the position. Open Claw will generate the web hook URL and you just paste that into your Trading View alert settings. Now your trading view strategies are fully automated. And that's it guys. That's how I'm using Open Claw to automate my crypto trading from simple trade execution to running multiple AI agents in competition with each other. If you want to get started with Blowfin
+
+00:06:01
+and claim those bonuses, click the link at the top of the description. Remember, you get up to $5,000 in bonuses just for signing up and depositing and it's completely no KYC. If you want more details on how OpenClaw and blowoffense platform works, check out the videos popping on screen right now for a full walkthrough. If you enjoyed this video, don't forget to leave a thumbs up and subscribe to my channel for more crypto tutorials. I'll see you in the next
+
